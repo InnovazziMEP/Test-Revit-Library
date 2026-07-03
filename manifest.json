@@ -1,0 +1,22 @@
+{
+  "families": [
+    {
+      "name": "PBUK_ES_Manifold Connector_EF095_NG",
+      "category": "Manifold",
+      "thumbnail": "https://example.com/revit-library/thumbs/chair_task.png",
+      "download": "https://example.com/revit-library/families/chair_task.rfa"
+    },
+    {
+      "name": "PBUK_ES_Bend_AF002_NG",
+      "category": "Bends",
+      "thumbnail": "https://example.com/revit-library/thumbs/downlight_6in.png",
+      "download": "https://example.com/revit-library/families/downlight_6in.rfa"
+    },
+    {
+      "name": "PBUK_ES_Single Branch_AF006_NG",
+      "category": "Single Branches",
+      "thumbnail": "https://example.com/revit-library/thumbs/door_900.png",
+      "download": "https://example.com/revit-library/families/door_900.rfa"
+    }
+  ]
+}
