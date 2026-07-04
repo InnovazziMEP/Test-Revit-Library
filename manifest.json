@@ -11,14 +11,14 @@
       "name": "Short Radius Bend - AF002_NG",
       "system": "Above Ground Drainage",
       "range": "Ensign Agilium\u00ae Soil",
-      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Short%20Radius%20Bend.png",
+      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Short Radius Bend.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
       "name": "Single Branch - AF006_NG",
       "system": "Above Ground Drainage",
       "range": "Ensign Agilium\u00ae Soil",
-      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Single%20Branch.png",
+      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Single Branch.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
     }
   ]
