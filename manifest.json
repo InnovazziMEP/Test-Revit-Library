@@ -1,19 +1,19 @@
 {
   "families": [
     {
-      "name": "PBUK_ES_Manifold Connector_EF095_NG",
+      "name": "Multi-Waste Manifold - EF095_NG",
       "category": "Manifolds",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Multi-waste%20Manifold.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Manifold Connector_EF095_NG.rfa"
     },
     {
-      "name": "PBUK_ES_Bend_AF002_NG",
+      "name": "Short Radius Bend - AF002_NG",
       "category": "Bends",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Short%20Radius%20Bend.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
-      "name": "PBUK_ES_Single Branch_AF006_NG",
+      "name": "Single Branch - AF006_NG",
       "category": "Single Branches",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Single%20Branch.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
