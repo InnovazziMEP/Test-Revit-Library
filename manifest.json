@@ -24,21 +24,21 @@
     {
       "name": "Multi-Waste Manifold - EF095",
       "system": "Below Ground Drainage",
-      "range": "Ensign Soil",
+      "range": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Multi-waste Manifold.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Manifold Connector_EF095_NG.rfa"
     },
     {
       "name": "Short Radius Bend - AF002",
       "system": "Below Ground Drainage",
-      "range": "Ensign Soil",
+      "range": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Short Radius Bend.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
       "name": "Single Branch - AF006",
       "system": "Below Ground Drainage",
-      "range": "Ensign Soil",
+      "range": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Single Branch.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
     }
