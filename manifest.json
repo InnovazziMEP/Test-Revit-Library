@@ -2,44 +2,44 @@
   "families": [
     {
       "name": "Multi-Waste Manifold - EF095_NG",
-      "system": "Above Ground Drainage",
-      "range": "Ensign Agilium\u00ae Soil",
+      "application": "Above Ground Drainage",
+      "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF095.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Manifold Connector_EF095_NG.rfa"
     },
     {
       "name": "Short Radius Bend - AF002_NG",
-      "system": "Above Ground Drainage",
-      "range": "Ensign Agilium\u00ae Soil",
+      "application": "Above Ground Drainage",
+      "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF002.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
       "name": "Single Branch - AF006_NG",
-      "system": "Above Ground Drainage",
-      "range": "Ensign Agilium\u00ae Soil",
+      "application": "Above Ground Drainage",
+      "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF006.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
     },
     {
       "name": "Multi-Waste Manifold - EF095",
-      "system": "Below Ground Drainage",
-      "range": "Ensign Drain",
+      "application": "Below Ground Drainage",
+      "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Multi-waste Manifold.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Manifold Connector_EF095_NG.rfa"
     },
     {
       "name": "Short Radius Bend - AF002",
-      "system": "Below Ground Drainage",
-      "range": "Ensign Drain",
-      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED002.png",
+      "application": "Below Ground Drainage",
+      "system": "Ensign Drain",
+      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Short Radius Bend.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
       "name": "Single Branch - AF006",
-      "system": "Below Ground Drainage",
-      "range": "Ensign Drain",
-      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED006.png",
+      "application": "Below Ground Drainage",
+      "system": "Ensign Drain",
+      "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/Single Branch.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
     }
   ]
