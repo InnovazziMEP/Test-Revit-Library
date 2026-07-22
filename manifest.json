@@ -22,14 +22,14 @@
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
     },
     {
-      "name": "Short Radius Bend - AF002",
+      "name": "Short Radius Bend - ED002",
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED002.png",
       "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
     },
     {
-      "name": "Single Branch - AF006",
+      "name": "Single Branch - ED006",
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED006.png",
