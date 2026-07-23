@@ -34,7 +34,7 @@
     },
     {
       "name": "Single Branch - ED006",
-      "product_type": "SingleBranch",
+      "product_type": "Single Branch",
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED006.png",
