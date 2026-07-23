@@ -30,7 +30,7 @@
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED002.png",
-      "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Bend_AF002_NG.rfa"
+      "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ED_Bend_ED002_DI.rfa"
     },
     {
       "name": "Single Branch - ED006",
@@ -38,7 +38,7 @@
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED006.png",
-      "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ES_Single Branch_AF006_NG.rfa"
+      "download": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/families/PBUK_ED_Single Branch_ED006_DI.rfa"
     }
   ]
 }
