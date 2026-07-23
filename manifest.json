@@ -2,6 +2,7 @@
   "families": [
     {
       "name": "Multi-Waste Manifold - EF095_NG",
+      "product_type": "Manifold",
       "application": "Above Ground Drainage",
       "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF095.png",
@@ -9,6 +10,7 @@
     },
     {
       "name": "Short Radius Bend - AF002_NG",
+      "product_type": "Bend",
       "application": "Above Ground Drainage",
       "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF002.png",
@@ -16,6 +18,7 @@
     },
     {
       "name": "Single Branch - AF006_NG",
+      "product_type": "Single Branch",
       "application": "Above Ground Drainage",
       "system": "Ensign Agilium\u00ae Soil",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/EF006.png",
@@ -23,6 +26,7 @@
     },
     {
       "name": "Short Radius Bend - ED002",
+      "product_type": "Bend",
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED002.png",
@@ -30,6 +34,7 @@
     },
     {
       "name": "Single Branch - ED006",
+      "product_type": "SingleBranch",
       "application": "Below Ground Drainage",
       "system": "Ensign Drain",
       "thumbnail": "https://raw.githubusercontent.com/InnovazziMEP/Test-Revit-Library/main/thumbs/ED006.png",
